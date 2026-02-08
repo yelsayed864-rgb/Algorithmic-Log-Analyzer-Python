@@ -1,0 +1,10 @@
+192.168.1.10 - ERROR - Failed login attempt
+10.0.0.2 - INFO - User logged in
+192.168.1.10 - ERROR - Failed login attempt
+172.16.0.5 - WARNING - High memory usage
+192.168.1.10 - ERROR - Failed login attempt
+10.0.0.2 - INFO - User logged out
+172.16.0.5 - WARNING - Disk nearly full
+192.168.1.10 - INFO - Password reset
+10.0.0.2 - ERROR - Invalid password
+172.16.0.5 - INFO - Backup completed
